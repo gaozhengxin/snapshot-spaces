@@ -1,0 +1,13 @@
+{
+  "key": "testgzx",
+  "symbol": "TESTGZX",
+  "name": "Test GZX",
+  "defaultView": "core",
+  "address": "0xc20b5e92e1ce63af6fe537491f75c19016ea5fb4",
+  "token": "0xc20b5e92e1ce63af6fe537491f75c19016ea5fb4",
+  "core": [
+    "0x0bE4783F255feDCc0892A01117a28027C3863dC2"
+  ],
+  "min": 0,
+  "invalid": []
+}
