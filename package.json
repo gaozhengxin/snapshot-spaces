@@ -1,7 +1,7 @@
 {
-  "name": "@bonustrack/snapshot-spaces",
+  "name": "@gaozhengxin/snapshot-spaces",
   "version": "0.1.0",
-  "repository": "bonustrack/snapshot-spaces",
+  "repository": "gaozhengxin/snapshot-spaces",
   "license": "MIT",
   "files": [
     "spaces"
