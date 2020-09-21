@@ -1,0 +1,14 @@
+{
+  "key": "anyswap",
+  "symbol": "Any",
+  "name": "Anyswap",
+  "chainId": 32659,
+  "defaultView": "core",
+  "address": "0x0c74199d22f732039e843366a236ff4f61986b32",
+  "token": "0x0c74199d22f732039e843366a236ff4f61986b32",
+  "core": [
+    "0xeddf4A474BEA02aC6184B445953Bbe0d98efFbbf"
+  ],
+  "min": 0,
+  "invalid": []
+}
