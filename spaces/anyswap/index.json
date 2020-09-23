@@ -6,6 +6,16 @@
   "defaultView": "core",
   "address": "0x0c74199d22f732039e843366a236ff4f61986b32",
   "token": "0x0c74199d22f732039e843366a236ff4f61986b32",
+  "strategies": [
+    ["erc20BalanceAndLiqudityOf", {
+      "address": "0x0c74199d22f732039e843366a236ff4f61986b32",
+      "symbol": "ANY",
+      "decimals": 18,
+      "liquidity_address": "0x049ddc3cd20ac7a2f6c867680f7e21de70aca9c3",
+      "liquidity_symbol": "FSN/ANY",
+      "liquidity_decimals": 18
+    }]
+  ],
   "core": [
     "0xeddf4A474BEA02aC6184B445953Bbe0d98efFbbf"
   ],
