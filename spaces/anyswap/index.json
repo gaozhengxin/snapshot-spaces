@@ -6,6 +6,7 @@
   "defaultView": "core",
   "address": "0x0c74199d22f732039e843366a236ff4f61986b32",
   "token": "0x0c74199d22f732039e843366a236ff4f61986b32",
+  "decimals": 18,
   "strategies": [
     ["erc20BalanceAndLiqudityOf", {
       "address": "0x0c74199d22f732039e843366a236ff4f61986b32",
