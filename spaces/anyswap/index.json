@@ -17,8 +17,8 @@
     }]
   ],
   "core": [
-    "0xeddf4A474BEA02aC6184B445953Bbe0d98efFbbf"
+          "0x7B67dd69e6d90b4ba5c4e3784D2f00838bf83ECD"
   ],
-  "min": 0,
+  "min": 1000,
   "invalid": []
 }
