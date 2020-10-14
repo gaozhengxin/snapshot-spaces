@@ -1,7 +1,7 @@
 {
   "key": "anyswap",
-  "symbol": "Any",
-  "name": "Anyswap",
+  "symbol": "ANY",
+  "name": "AnySwap",
   "chainId": 32659,
   "defaultView": "core",
   "address": "0x0c74199d22f732039e843366a236ff4f61986b32",
