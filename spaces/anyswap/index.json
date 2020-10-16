@@ -8,7 +8,7 @@
   "token": "0x0c74199d22f732039e843366a236ff4f61986b32",
   "decimals": 18,
   "strategies": [
-    ["erc20BalanceAndLiqudityOf", {
+    ["balanceAndLiquidity", {
       "address": "0x0c74199d22f732039e843366a236ff4f61986b32",
       "symbol": "ANY",
       "decimals": 18,
