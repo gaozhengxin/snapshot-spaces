@@ -20,6 +20,6 @@
   "core": [
           "0x7B67dd69e6d90b4ba5c4e3784D2f00838bf83ECD"
   ],
-  "min": 1,
+  "min": 1000,
   "invalid": []
 }
