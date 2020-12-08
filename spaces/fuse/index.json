@@ -4,17 +4,14 @@
   "name": "Fusionite",
   "chainId": 32659,
   "defaultView": "core",
-  "address": "0x20dd2f2bfa4ce3eaec5f57629583dad8a325872a",
-  "token": "0x20dd2f2bfa4ce3eaec5f57629583dad8a325872a",
+  "address": "0xe96ac326ecea1a09ae6e47487c5d8717f73d5a7e",
+  "token": "0xe96ac326ecea1a09ae6e47487c5d8717f73d5a7e",
   "decimals": 18,
   "strategies": [
-    ["balanceAndLiquidity", {
-      "address": "0x20dd2f2bfa4ce3eaec5f57629583dad8a325872a",
+    ["balanceOf", {
+      "address": "0xe96ac326ecea1a09ae6e47487c5d8717f73d5a7e",
       "symbol": "FUSE",
-      "decimals": 18,
-      "liquidity_address": "0xe96ac326ecea1a09ae6e47487c5d8717f73d5a7e",
-      "liquidity_symbol": "FSN/FUSE",
-      "liquidity_decimals": 18
+      "decimals": 18
     }]
   ],
   "core": [
